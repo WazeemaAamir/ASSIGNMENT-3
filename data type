@@ -1,0 +1,13 @@
+// number datatypes
+// string datatypes
+// booolen datatyoes
+
+let box: number = 90;
+console.log(box);
+
+let myString: String = "Wazeema Aamir"
+console.log{myString};
+
+const myBool: boolean =false;
+console.log{myBool};
+

@@ -1,0 +1,15 @@
+//console.log("hello world")
+
+//object : Message, personname, Array, honda , 18 , 2014 , car
+
+//syntax error
+let message = "hi subscriber"
+console.log(message)
+
+//type error
+console.log(message)
+
+//assign error
+let message: string = "hello world"
+let message: number = "2022"
+let number = 6

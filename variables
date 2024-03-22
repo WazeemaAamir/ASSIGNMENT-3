@@ -1,0 +1,7 @@
+// In this tutorial we are going to learn about variables in typescript
+
+let X2 = "Wazeema Aamir"
+console.log(X2);
+console.log(X2);
+console.log(X2);
+console.log(X2);

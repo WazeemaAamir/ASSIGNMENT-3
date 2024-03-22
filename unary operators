@@ -1,0 +1,17 @@
+// console.log(result)
+
+
+//unar7y operators homework example
+
+let a = 5
+let b = 2
+let c = [--a]
+console.log(c)\\
+
+//homework
+let d; number = 5;
+let e; number = 2;
+let f; number;
+
+c = ++a + a++ + --b +  b-- + a + b++ + b;
+console.log(c);

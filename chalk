@@ -1,0 +1,15 @@
+//chalk example
+
+import chalk from "chalk";
+console.log(chalk.green.bold('subscribe to youtube channel mehak alamgir'));
+
+import inquirer from "inquirer";
+import chalk from "chalk";
+
+let answers = await inquirer.prompt([{
+    name: "age",
+    type: "number",
+    message: "Enter your Age:"}
+]);
+
+console.log(chalk.bgYellowBright("Insha Allah, in " + (60 - answers.age) + "years you will be 60 years old."))

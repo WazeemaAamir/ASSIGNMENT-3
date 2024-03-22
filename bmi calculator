@@ -1,0 +1,8 @@
+//BMI Calculator In Typescript
+
+let weight = 70;
+let height = 1.75;
+
+let bmi = weight/ height*height
+
+console.log('Wazeema Your BMI Is ${bmi}')

@@ -1,0 +1,21 @@
+// Bigint and why we used it ....? 
+// Typescript using Biginit instead of number
+
+
+// // Bigint Example with Variables x and y
+
+// data types: string, number, boolean, bigint 
+
+// integer = bigint
+// bigint never print zero (0)
+123654789
+10.12
+
+const x: bigint = 12345678901234567890n
+const y: bigint = 98765432109876543210n
+
+// addition
+const sum: bigint = x+y
+console.log("x:" , x)
+console.log("y:" , y)
+console.log("sum of x and y:" , sum)

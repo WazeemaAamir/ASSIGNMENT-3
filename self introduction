@@ -1,0 +1,26 @@
+
+//write an introduction of your self using typescript
+
+//introduction
+console.log("hello! I am a webdeveloper")
+
+//personal information
+const perName: string = "Wazeema Aamir"
+const age: number = 15
+const education: string [] = ["Class 9/"]
+const skill: string [] = ["nothing"]
+const experience: string = "nothing" 
+const project: string =['bmi calculator' , '45 assignments' ,'calculator' , 'chalk' , 'compression operators' , 'data type' , 'switch statement' etc.]
+
+//print personal information
+console.log('My name is Wazeema Aamir, and I am 15 years old.')
+console.log('My father name is Dr Aamir Rajput')
+console.log('I have 2 siblings')
+console.log('I am read in class 9')
+console.log('My school name is The ScHool of Scientist')
+console.log('My school is in 3 1/2')
+
+//conclusion
+console.log("Thank you for know me as a student...please do like and subscribe to my youtube channel")
+console.log("My YOUTUBE CHANNEL name is "Ahmad Aamir" ")
+console.log("My other YOUTUBE CHANNEL is "Wazeema Aamir" ")
